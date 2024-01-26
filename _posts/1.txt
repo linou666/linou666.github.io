@@ -1,0 +1,3 @@
+Host gitHub.com
+PreferredAuthentications publickey
+IdentityFile /Users/linfang/.ssh/id_rsa
